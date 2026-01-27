@@ -1,4 +1,4 @@
-### 🛠 Tools I Swear At (Not By)
+LAHAT NG AYAW KO
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
@@ -11,7 +11,7 @@
 
 ---
 
-### 📉 My GitHub Stats (Allegedly)
+### 📉 COMMITMENT ISSUES
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=2xe2ipii&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
