@@ -117,10 +117,15 @@ Contributed to a conversational visualization platform with RAG-based template r
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=2xe2ipii&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Drexler's GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=2xe2ipii&hide_border=true&background=00000000&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Drexler's contribution streak" />
+<img src="https://streak-stats.demolab.com?user=2xe2ipii&hide_border=true&background=00000000&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Drexler's contribution streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=2xe2ipii&bg_color=00000000&color=94a3b8&line=38bdf8&point=f59e0b&area=true&area_color=38bdf8&hide_border=true" alt="Drexler's contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg">
+  <img width="95%" alt="Drexler's contribution history" src="./assets/contribution-snake.svg">
+</picture>
+
+<sub>The contribution graphic is generated daily by GitHub Actions and stored in this repository.</sub>
 
 </div>
 
