@@ -1,46 +1,139 @@
-# Hi, I'm Drexler Reyes 👋
+<div align="center">
 
-**Data Science student · Full-stack developer · Builder of practical web and machine-learning projects**
+# Drexler Reyes
 
-I enjoy turning real-world problems into useful, approachable software—from operational dashboards and campus systems to interactive experiences and computer-vision experiments. My strongest work is in TypeScript and modern web development, and I'm currently deepening my skills in data science, databases, and backend engineering.
+### Full-Stack Software Engineer · Applied AI · Data & Databases
 
-## What I'm working with
+I build production software that replaces messy workflows with reliable systems.
 
-- **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, REST APIs, Socket.IO
-- **Data & databases:** Python, MongoDB, PostgreSQL, Supabase
-- **Machine learning:** TensorFlow, OpenCV, metric learning
-- **Tools & platforms:** Git, GitHub, Vercel, Firebase
+[![GitHub](https://img.shields.io/badge/GitHub-2xe2ipii-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2xe2ipii)
 
-## Featured projects
-
-### [AquaSense](https://github.com/2xe2ipii/aquasense)
-A real-time water-quality monitoring dashboard for fish-cage aquaculture. It supports multiple cages, live Socket.IO updates, interactive Chart.js visualizations, historical readings, and CSV export.
-
-### [DLSL Lost and Found](https://github.com/2xe2ipii/dlsl-lost-and-found)
-A full-stack item-management system for De La Salle Lipa with role-based authentication, claims and donations, image uploads, reporting, statistics, and PDF certificate generation.
-
-### [Signature Verification with a Siamese CNN](https://github.com/2xe2ipii/siamese-signature-verification)
-A data-science project that uses one-shot learning and contrastive loss to compare handwritten signatures, with experiments across learning rates, margins, and batch sizes.
-
-### [Kalma](https://github.com/2xe2ipii/ddb-hackathon)
-An offline-first mobile web prototype for youth drug-prevention education and mental-health support, featuring bilingual content, accessibility settings, local-only personal data, quizzes, and well-being tools.
-
-### [Noir Art Gallery](https://github.com/2xe2ipii/noir-gallery)
-An immersive virtual gallery built with React and TypeScript, featuring film-noir visual design, motion, interactive navigation, and 3D-ready experiences.
-
-## Right now
-
-- Building stronger foundations in database administration and system design
-- Practicing data structures and algorithms in TypeScript
-- Exploring practical applications of machine learning and data visualization
-- Open to entry-level and junior opportunities in software engineering, data, and database-focused roles
-
-## Connect
-
-- Explore my work here on [GitHub](https://github.com/2xe2ipii)
-- Interested in collaborating? Open an issue in the relevant repository
+</div>
 
 ---
 
-> I like software that does more than look polished—it should solve a real problem.
+## About me
+
+- Full-stack engineer with production experience across web applications, databases, cloud deployment, and applied AI
+- Sole developer of a branch operations platform used by **50–100 employees across nine locations**
+- Former **.NET Developer Intern at OpeniT Philippines**, contributing to an AI-powered data-visualization platform
+- BS Computer Science graduate from **De La Salle Lipa**, major in Game Development
+- **TOPCIT Level 3** certified
+- Based in Lipa City, Batangas, Philippines
+
+## Tech stack
+
+<div align="center">
+
+[![Core stack](https://skillicons.dev/icons?i=ts,js,python,cs,cpp,react,nextjs,nodejs,fastapi,dotnet,postgres,supabase,redis,firebase,docker,gcp,vercel,git&perline=9)](https://skillicons.dev)
+
+</div>
+
+| Area | Technologies |
+|---|---|
+| Languages | TypeScript, JavaScript, Python, C#, SQL, C++ |
+| Web & backend | Next.js, React, Node.js, FastAPI, ASP.NET Core, Blazor Server, Entity Framework Core |
+| Data & cloud | PostgreSQL, Supabase, SQL Server, Redis, pgvector, Firebase, Docker, Google Cloud Run, Vercel |
+| Engineering | REST APIs, database design, row-level security, realtime systems, authentication, testing, RAG |
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SB-BOP · Production
+
+**Next.js 16 · React 19 · TypeScript · Supabase · PostgreSQL**
+
+Branch operations platform for Sisters & Brows, replacing a Google Sheets workflow with appointments, self-check-in, live queues, customer records, finance, inventory, and audits.
+
+Built four-role authorization, branch-isolated row-level security, realtime workflows, migrations, and inventory automation.
+
+<sub>Private client repository</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Grammar Heroes · Applied AI
+
+**Python · T5 · FastAPI · Redis · Docker · Google Cloud Run**
+
+Fine-tuned a 220M-parameter T5 model for grammar correction, improving BLEU from ~72.0 to 82.5. Deployed a cached API reaching ~218 ms median processing.
+
+UAT averaged 3.75/4 from 38 pupils and 3.98/4 from four teachers.
+
+<sub>Academic team project · Private repository</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Kino](https://github.com/2xe2ipii/kino)
+
+**ASP.NET Core · React · PostgreSQL · EF Core · JWT**
+
+A social film diary with search, ratings, reviews, viewing history, profiles, and yearly activity statistics, backed by a Clean Architecture REST API.
+
+</td>
+<td width="50%" valign="top">
+
+### [Kalma](https://github.com/2xe2ipii/ddb-hackathon)
+
+**JavaScript · HTML · CSS · localStorage**
+
+Offline-first youth prevention and well-being prototype with bilingual content, accessibility controls, quizzes, PHQ-4 screening, and private on-device journaling.
+
+**Finalist — 2026 DDB Mobile App Challenge**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Signature Verification](https://github.com/2xe2ipii/siamese-signature-verification)
+
+**Python · TensorFlow · OpenCV · Siamese CNN**
+
+One-shot handwritten-signature verification using contrastive loss, with experiments across margin, batch-size, and learning-rate configurations.
+
+</td>
+<td width="50%" valign="top">
+
+### ChartForge · AI Visualization
+
+**ASP.NET Core · Blazor · PostgreSQL · pgvector · n8n**
+
+Contributed to a conversational visualization platform with RAG-based template retrieval and isolated rendering across Highcharts, ECharts, D3.js, and Chart.js.
+
+<sub>Professional internship project · Private repository</sub>
+
+</td>
+</tr>
+</table>
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=2xe2ipii&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Drexler's GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=2xe2ipii&hide_border=true&background=00000000&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Drexler's contribution streak" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=2xe2ipii&bg_color=00000000&color=94a3b8&line=38bdf8&point=f59e0b&area=true&area_color=38bdf8&hide_border=true" alt="Drexler's contribution graph" />
+
+</div>
+
+## Recognition
+
+- **1st Runner-Up** — DataBiz Regional Programming Competition, 2024
+- **4th Place** — CodeChum National Programming Competition, 2024
+- **Finalist** — Dangerous Drugs Board Mobile App Challenge, 2026
+
+---
+
+<div align="center">
+
+### Build the useful thing. Make it reliable. Keep improving it.
+
+</div>
